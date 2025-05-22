@@ -31,4 +31,4 @@ Predicting Cherry Blossom Bloom in Tokyo Using Traditional Statistical Methods a
  	•	MLP（Feature=6） .ipynb：多層感知機預測（選定特徵6項）
  	•	MLP（Feature=11） .ipynb：多層感知機預測（選定特徵11項）
 
-  # 參考資料來源： https://github.com/TasnimAhmedEee/Cherry-Blossom-Date-Prediction
+參考資料來源： https://github.com/TasnimAhmedEee/Cherry-Blossom-Date-Prediction
